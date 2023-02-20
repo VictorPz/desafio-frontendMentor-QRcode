@@ -48,7 +48,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O desafio tem a proposta de colocar em prática tudo que venho estudando sem o auxílio de nenhuma aula específica.
 
-- [Veja como ficou o meu projeto!](victorpz.github.io/desafio-frontendMentor-QRcode)
+- [Veja como ficou o meu projeto!](https://victorpz.github.io/desafio-frontendMentor-QRcode)
 
 ## 🔖 Layout
 
